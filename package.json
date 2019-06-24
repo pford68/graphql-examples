@@ -1,0 +1,30 @@
+{
+  "name": "graphql-examples",
+  "version": "1.0.0",
+  "description": "Demonstrating GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pford68/graphql-examples.git"
+  },
+  "keywords": [
+    "grpahql",
+    "examples"
+  ],
+  "author": "pford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pford68/graphql-examples/issues"
+  },
+  "homepage": "https://github.com/pford68/graphql-examples#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1",
+    "graphql-tag": "^2.10.1"
+  }
+}
